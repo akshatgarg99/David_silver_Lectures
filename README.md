@@ -7,7 +7,7 @@ Enjoy !!!
 
 Feel free to suggest any changes or even upload your own notes. Just send a PR
 
-Current Status - Lecture 4 Uploaded 
+Current Status - Lecture 5 Uploaded 
 
 
 
