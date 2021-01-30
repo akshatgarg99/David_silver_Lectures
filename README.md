@@ -46,7 +46,7 @@ Feel free to suggest any changes or even upload your own notes. Just send a PR
     Temporal Difference Learning
     Bias/ Varience Tradeoff
     n Step Prediction
-    Forward-View TD( \lambda )
+    Forward-View TD(\lambda)
     Backward-View TD(\lambda)
     Eligibility Trace
     
